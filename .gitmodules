@@ -1,0 +1,9 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/octopress"]
+	path = themes/octopress
+	url = https://github.com/parsiya/Hugo-Octopress
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

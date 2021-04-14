@@ -1,0 +1,20 @@
+---
+title: "Ignorant me"
+date: 2021-01-15T19:44:04+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+That Supreme Infinite
+    Illumines my mind
+My mind is inert
+    That breathes in life
+Expressions I live
+    Memories I scroll
+Imaginations I weave
+    Filtered through Desires
+How Ignorant I am
+    I take me as my mind
+#+end_example

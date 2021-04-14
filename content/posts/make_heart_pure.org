@@ -1,0 +1,22 @@
+---
+title: "Make my heart pure"
+date: 2021-04-08T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+World offered food
+    To cater my desires
+I went after it
+    To have it all
+Got exhausted
+    and sick, I fell
+The trick of desires
+    Played me well
+Now, I take it as meds
+    Till the disease I cure
+In Detachment and Love
+    I make my heart pure
+#+end_example

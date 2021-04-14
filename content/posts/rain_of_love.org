@@ -1,0 +1,20 @@
+---
+title: "Rain of Love"
+date: 2021-02-15T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+Endless waters
+  and the boat fragile
+Thirsty throat
+  which tempts the Mind
+Heat of Self
+  Blesses with clouds
+The Grace saves me
+  from turning into dust
+In the rain of Love
+  I quench my thirst
+#+end_example

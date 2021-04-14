@@ -1,0 +1,20 @@
+---
+title: "Wake up and Rise"
+date: 2021-02-09T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+This is my friend
+  That is my foe
+Through my mind
+  My web grows
+Wondrous is the illusion
+  That makes me crawl
+But I see Truth
+  In words of Wise
+Living through Desires
+  I wake up and Rise
+#+end_example

@@ -1,0 +1,18 @@
+---
+title: "Cosmic Silence"
+date: 2021-01-21T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+I find it real
+  I try to act
+It bewilders me
+  Beyond Intellect
+I give in Now
+   and, rest my thoughts
+In cosmic Silence
+  My ego drops
+#+end_example

@@ -1,0 +1,20 @@
+---
+title: "Give me the Vision"
+date: 2021-02-04T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+Seeing Duality
+  is my inability to see
+In blinding Darkness
+  and lost in it
+My seeing is faulty
+  that it sees from eye
+Give me the vision
+  from Heart to see
+In Love, In Truth
+  That sets me Free
+#+end_example

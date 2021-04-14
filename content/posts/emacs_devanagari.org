@@ -1,0 +1,13 @@
+---
+title: "Emacs Devanagari Support"
+date: 2021-04-08T13:58:19+05:30
+draft: false
+categories: ["GNU/Linux"]
+tags: ["Emacs"]
+---
+
+| Command                         | Description                      |
+|---------------------------------+----------------------------------|
+| =C-x RET C-\ devanagari-itrans= | Change input method to देवनागरी   |
+| =C-\=                           | Toggle between Hindi and English |
+|                                 |                                  |

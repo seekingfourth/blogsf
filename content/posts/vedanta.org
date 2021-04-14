@@ -1,0 +1,20 @@
+---
+title: "Vedānta"
+date: 2021-04-10T14:01:38+05:30
+draft: false
+categories: ["Vedānta"]
+tags: ["Spirituality"]
+---
+
+** Introduction
+Vedānta is combination of two words: =Veda= means Knowledge and =anta= means end. So, it means end of knowledge.
+
+This is not pessimistic end of knowledge, it means a state where there is nothing more to be known.
+
+Since the end portions of Vedas, talk and provide instructions to attain such state, they are also called Vedānta.
+
+#+BEGIN_EXPORT html
+{{% notice note %}}
+This article is in progress
+{{% /notice %}}
+#+END_EXPORT

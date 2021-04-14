@@ -1,0 +1,18 @@
+---
+title: "Liberated I am"
+date: 2021-01-11T19:52:39+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+Whether get it now
+    Or, in many births
+Whenever we get
+    Truth is only That
+That only dwells
+    In me and everyone
+Once I realise This
+    Liberated 'I am'
+#+end_example

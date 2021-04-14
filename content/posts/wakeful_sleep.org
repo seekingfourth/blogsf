@@ -1,0 +1,20 @@
+---
+title: "Wakeful Sleep"
+date: 2021-01-17T19:41:56+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+As long as I sleep
+  under the Veil of Ignorance,
+I get dissolved into a state
+  where I rest with desires
+Half awake I project Dream
+  Awake I project Illusion
+Oh what Adventure
+  it is to take
+To the state of Wakeful sleep
+  from the sleep of desires
+#+end_example

@@ -1,0 +1,20 @@
+---
+title: "Be One"
+date: 2021-01-19T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+All this whatsoever
+  verily is Self
+Essence of That
+  is in every breath
+Let us bask
+  in the bliss of Truth
+Releasing fetters
+  of the Hearts
+Be One with That
+  in eternal Love!
+#+end_example

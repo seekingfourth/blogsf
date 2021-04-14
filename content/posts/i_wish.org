@@ -1,0 +1,22 @@
+---
+title: "I wish"
+date: 2021-01-18T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+Sometimes I wish
+  I could wander afar
+But no destiny awaits
+  to lead me
+Sometimes I wish
+  my ambitions could rise
+But no desire erupts
+  to inflame me
+Sometimes I wish
+  I could fall in love
+But Love is all
+  That claims me
+#+end_example

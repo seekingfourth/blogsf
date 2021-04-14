@@ -1,0 +1,22 @@
+---
+title: "Wake me up"
+date: 2021-01-22T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+Drunk with desires
+  Deep I sleep
+Wandering in dream
+  Laugh and weep
+A voice I hear
+  A soundless sound
+To wake me up
+  As an alarm
+Ignorant I am
+  To pay no heed
+And, what for
+  To snore more!
+#+end_example

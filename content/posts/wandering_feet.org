@@ -1,0 +1,22 @@
+---
+title: "Wandering Feet"
+date: 2021-02-07T12:23:46+05:30
+draft: false
+categories: ["Poetry"]
+tags: ["Spirituality"]
+---
+
+#+begin_example
+Going through
+  an illusory maze
+Colorful walls
+  and, lots to play
+Some paths are blocked
+  Some go deeper
+They keep me enchanted
+  to hold me down
+Leaving the ephemeral
+  I walk with laughter
+In search of infinite fields
+  My feet wander
+#+end_example

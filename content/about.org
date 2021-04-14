@@ -1,0 +1,21 @@
+---
+title: "About"
+date: 2021-04-09T21:46:40+05:30
+draft: false
+---
+
+Congratulations! You are rare few who could reach here!
+
+My social/formal name is Gaurav, a Software Engineer by profession and having all tendencies to be a Vedāntin (an expounder of [[/posts/vedanta/][Vedānta]]).
+
+Here, you will find my writings on Vedānta/Spirituality and GNU/Linux.
+
+If you are into programming, this blog has been setup up these:
+- Static site generator: [[https://gohugo.io/][Hugo]]
+- Theme: [[https://themes.gohugo.io/hugo-coder/][Coder]]
+- Hosting: [[https://pages.github.com/][Github Pages]]
+- Writing: [[https://orgmode.org/][Emacs org-mode]]
+
+Hope you find the writings useful, and, wish you attain the eternal bliss of Super Conscious state!
+
+Shivohum!
