@@ -1,0 +1,26 @@
+---
+title: "sādhanā catuṣṭaya - Fourfold Qualifications"
+date: 2021-04-25T20:30:47+05:30
+draft: true
+categories: ["Vedānta"]
+tags: ["Spirituality", "Qualification"]
+---
+
+* Viveka
+=Viveka= is the intellectual capability to discriminate between real and unreal is the first
+among the four-fold qualifications in a sādhak (seeker).
+
+#+begin_quote
+नित्यमात्मस्वरूपं हि दृश्यं तद्विपरीतगम् ।
+
+एवं यो निश्चयः सम्यग्विवेको वस्तुनः स वै ।।
+
+Ātman (the seer) in itself is alone permanent, the seen is opposed to it (i.e. transient) -
+such a settled conviction is truly known as Viveka (discrimination between real and unreal)
+
+अपरोक्षानुभूतिः [[https://sanskritdocuments.org/doc_z_misc_shankara/aparokshaanubhuuti.html][aparoksanūbhūti]]
+#+end_quote
+
+#+begin_quote
+This article is in progress
+#+end_quote

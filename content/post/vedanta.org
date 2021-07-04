@@ -13,8 +13,6 @@ This is not pessimistic end of knowledge, it means a state where there is nothin
 
 Since the end portions of Vedas, talk and provide instructions to attain such state, they are also called Vedānta.
 
-#+BEGIN_EXPORT html
-{{% notice note %}}
-This article is in progress
-{{% /notice %}}
-#+END_EXPORT
+#+begin_quote
+Article in progress...
+#+end_quote

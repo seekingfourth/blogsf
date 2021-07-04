@@ -1,8 +1,7 @@
 ---
 title: "An Introduction to GNU/Linux Commandline Interface"
 date: 2019-04-04T21:38:18+05:30
-draft: true
-toc: true
+draft: false
 categories: ["GNU/Linux"]
 tags: ["CommandLine"]
 ---

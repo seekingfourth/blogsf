@@ -6,13 +6,13 @@ draft: false
 
 Congratulations! You are rare few who could reach here!
 
-My social/formal name is Gaurav, a Software Engineer by profession and having all tendencies to be a Vedāntin (an expounder of [[/posts/vedanta/][Vedānta]]).
+My social/formal name is Gaurav, a Software Engineer by profession and having all tendencies to be a Vedāntin (an expounder of [[/post/vedanta/][Vedānta]]).
 
 Here, you will find my writings on Vedānta/Spirituality and GNU/Linux.
 
-If you are into programming, this blog has been setup up these:
+If you are into programming, this blog has been setup up with these:
 - Static site generator: [[https://gohugo.io/][Hugo]]
-- Theme: [[https://themes.gohugo.io/hugo-coder/][Coder]]
+- Theme: [[https://github.com/olOwOlo/hugo-theme-even][Even]]
 - Hosting: [[https://pages.github.com/][Github Pages]]
 - Writing: [[https://orgmode.org/][Emacs org-mode]]
 
